@@ -31,7 +31,8 @@
 		"request": "^2.88.2",
 		"sortablejs": "^1.15.6",
 		"user-agents": "^1.1.325",
-		"vue": "^3.3.11"
+		"vue": "^3.3.11",
+		"winston": "^3.17.0"
 	},
 	"devDependencies": {
 		"@vue/cli-plugin-babel": "^5.0.8",
